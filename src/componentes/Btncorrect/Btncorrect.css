@@ -1,0 +1,22 @@
+.boton__estado{
+  
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    border: 2px solid white;
+    
+    margin-left: 10px;
+    margin-top: 14px;
+
+}
+
+.correct{
+    transition: all 0.5s;
+    background-color: green;
+    box-shadow: 1px 1px 10px 1px rgb(169, 245, 142);
+}
+.incorrect{
+    transition: all 0.5s;
+    background-color: red;
+    box-shadow: 1px 1px 10px 1px rgb(245, 142, 142);
+}

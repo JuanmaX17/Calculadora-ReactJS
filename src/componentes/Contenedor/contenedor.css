@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    background-color: rgb(5, 31, 47);
+
+}
+
+.contenedor__caculadora{
+
+    display: flex;
+    flex-direction: column;
+
+    justify-items: center;
+    height: 635px;
+    width: 450px;
+    border-radius: 30px;
+    border: 2px solid wheat;
+    background-color: #3b555f;
+}

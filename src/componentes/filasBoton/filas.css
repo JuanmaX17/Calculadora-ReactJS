@@ -1,0 +1,12 @@
+.calculadora__filas{
+
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 90%;
+    height: 80px;
+    padding: 8px;
+    margin-bottom: 10px;
+
+
+}
